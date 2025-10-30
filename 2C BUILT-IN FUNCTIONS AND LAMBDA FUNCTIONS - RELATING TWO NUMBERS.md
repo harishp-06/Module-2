@@ -26,17 +26,18 @@ To write a Python program to check the relation between two numbers — whether 
 #Reg.No:212223060086
 #Name:Harish kumar P
 
-i=int(input())
-j=int(input())
-
-f = lambda a, b: a*b
-
-print(f(i, j))
-
+x=int(input())
+y=int(input())
+if(x<y):
+    print(x,"is smaller than",y)
+else:
+    print(y,"is smaller than",x)
 ```
 
 ### OUTPUT
-![Screenshot 2025-04-27 141552](https://github.com/user-attachments/assets/aee43018-ee24-4820-bc5c-1197b7d1fba5)
+
+<img width="959" height="273" alt="Screenshot 2025-08-31 203706" src="https://github.com/user-attachments/assets/df45d346-21f5-4b3c-b0c8-1cc05c870e64" />
+
 
 ### RESULT
-a function which takes two arguments: a and b and returns the multiplication of them: a*b. Assign it to a variable named: f. using python has been implemented successfully.
+Thus a a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function was executed successfully.

@@ -23,6 +23,7 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ```
 #Reg.no-212223060086
 #Name-Harish kumar P
+
 n=int(input())
 
 for i in range(n,0,-1):

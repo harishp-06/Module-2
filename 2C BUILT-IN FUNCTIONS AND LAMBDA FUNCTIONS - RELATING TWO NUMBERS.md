@@ -22,19 +22,20 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-
 ```
+#Reg.No:212223060086
+#Name:Harish kumar P
 
+result = lambda x,y : f"{x} is smaller than {y}" if x < y else (f"{x} is greater than {y}" if x > y                else f"{x} is equal to {y}")
+a=int(input()) 
+b=int(input())
+print(result(a, b))
 ```
 
 ### OUTPUT
-
-```
-
-```
+![Module 2c](https://github.com/user-attachments/assets/682d7198-72b9-45c3-9b5f-2708e0f1d288)
 
 ### RESULT
-
 ```
-
+This program for the  relation between two numbers is successfully is executed.
 ```

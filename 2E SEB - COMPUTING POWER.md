@@ -23,8 +23,8 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```python
-# Reg.No- 212223060050
-# Name- Dharshini V S
+# Reg.No- 212223060086
+# Name- Harish kumar P
 
 a=int(input())
 b=int(input())
